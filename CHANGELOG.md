@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.123.2](https://github.com/bpg/terraform-provider-proxmox/compare/v0.123.1...v0.123.2) (2026-11-19)
+
+
+### Bug Fixes
+
+* **acme:** replace account when directory, tos or name changes ([#3326](https://github.com/bpg/terraform-provider-proxmox/issues/3326)) ([dd92ccc](https://github.com/bpg/terraform-provider-proxmox/commit/dd92ccc4d3ccb2c5bf0b33775c1d8411b40ff88e))
+
 ## [0.123.1](https://github.com/bpg/terraform-provider-proxmox/compare/v0.123.0...v0.123.1) (2026-11-18)
 
 
